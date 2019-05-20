@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28570e8d-3e54-443d-9209-aa20d4a28c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../github.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../github.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leanback/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../leanback/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/player/TvInputPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/player/TvInputPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/ChannelXMLParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/ChannelXMLParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichFeedUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichFeedUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSetupFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSetupFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichTvInputService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichTvInputService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../visual-game-controller/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../visual-game-controller/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActionBarCompat-Basic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActionBarCompat-Basic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActionBarCompat-ListPopupMenu/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActionBarCompat-ListPopupMenu/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActionBarCompat-Styled/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActionBarCompat-Styled/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActiveNotifications/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActiveNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActiveNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActivityInstrumentation/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActivityInstrumentation/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ActivitySceneTransitionBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ActivitySceneTransitionBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AdvancedImmersiveMode/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AgendaData/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AgendaData/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AlwaysOn/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AlwaysOn/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictionEnforcer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictionEnforcer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictionSchema/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppRestrictions/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppRestrictions/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppShortcuts/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppShortcuts/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/screenshots/web-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AppUsageStatistics/screenshots/web-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AsymmetricFingerprintDialog/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AsymmetricFingerprintDialog/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutoBackupForApps/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/afservice/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/kotlinApp/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/AutofillFramework/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/AutofillFramework/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicAccessibility/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicAccessibility/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicAndroidKeyStore/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicAndroidKeyStore/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicContactables/Application/src/main/res/layout/sample_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicContactables/Application/src/main/res/layout/sample_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicContactables/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicContactables/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicContactables/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicContactables/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicGestureDetect/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicImmersiveMode/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicManagedProfile/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicManagedProfile/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-hdpi/ic_action_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-hdpi/ic_action_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-hdpi/ic_action_play_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-hdpi/ic_action_play_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-mdpi/ic_action_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-mdpi/ic_action_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-mdpi/ic_action_play_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-mdpi/ic_action_play_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-xhdpi/ic_action_play.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-xhdpi/ic_action_play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-xhdpi/ic_action_play_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/Application/src/main/res/drawable-xhdpi/ic_action_play_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaDecoder/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMediaRouter/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMediaRouter/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicMultitouch/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicMultitouch/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/java/com/example/android/basicnetworking/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/java/com/example/android/basicnetworking/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/layout/sample_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/layout/sample_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNetworking/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNetworking/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicRenderScript/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicRenderScript/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicSyncAdapter/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicSyncAdapter/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicTransition/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BasicTransition/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BasicTransition/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BatchStepSensor/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BatchStepSensor/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BeamLargeFiles/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BeamLargeFiles/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BeamLargeFiles/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BeamLargeFiles/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothAdvertisements/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothAdvertisements/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothAdvertisements/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-xhdpi/ic_action_device_access_bluetooth_searching.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-xhdpi/ic_action_device_access_bluetooth_searching.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-xxhdpi/ic_action_device_access_bluetooth_searching.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/drawable-xxhdpi/ic_action_device_access_bluetooth_searching.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothChat/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothChat/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BluetoothLeGatt/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/java/com/example/android/borderlessbuttons/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/java/com/example/android/borderlessbuttons/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/res/layout/sample_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/res/layout/sample_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BorderlessButtons/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/BorderlessButtons/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/BorderlessButtons/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Camera2Basic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Camera2Basic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Camera2Basic/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Camera2Basic/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Camera2Raw/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Camera2Raw/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Camera2Video/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Camera2Video/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Camera2Video/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Camera2Video/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardEmulation/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardEmulation/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardEmulation/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardReader/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardReader/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardReader/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardView/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardView/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CardView/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CardView/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ClippingBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ClippingBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ClippingBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ClippingBasic/screenshots/web-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ClippingBasic/screenshots/web-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CommitContentSampleIME/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ConfirmCredential/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ConfirmCredential/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/kotlinApp/resources/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ContentProviderPaging/resources/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomChoiceList/Application/src/main/java/com/example/android/customchoicelist/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomChoiceList/Application/src/main/java/com/example/android/customchoicelist/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomChoiceList/Application/src/main/res/layout/sample_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomChoiceList/Application/src/main/res/layout/sample_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomChoiceList/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomChoiceList/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomTransition/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomTransition/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomTransition/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/CustomTransition/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/CustomTransition/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DataLayer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DataLayer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DelayedConfirmation/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DeviceOwner/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DeviceOwner/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DeviceOwner/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DeviceOwner/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectBoot/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectBoot/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectBoot/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectBoot/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectShare/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectShare/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_description_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_description_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_folder_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_folder_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_description_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_description_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_folder_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_folder_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_description_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_description_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_folder_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_folder_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_description_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_description_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_folder_grey600_36dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_folder_grey600_36dp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DirectorySelection/screenshots/web-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DirectorySelection/screenshots/web-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DisplayingBitmaps/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DisplayingBitmaps/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricApps/Application/src/main/res/layout/activity_document_centric_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricApps/Application/src/main/res/layout/activity_document_centric_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricApps/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricApps/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-hdpi/new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-hdpi/new_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-mdpi/new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-mdpi/new_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-xhdpi/new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-xhdpi/new_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-xxhdpi/new_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/drawable-xxhdpi/new_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/layout/activity_relinquish_identity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/Application/src/main/res/layout/activity_relinquish_identity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DocumentCentricRelinquishIdentity/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/java/com/example/android/donebar/DoneBarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/java/com/example/android/donebar/DoneBarActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/java/com/example/android/donebar/DoneButtonActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/java/com/example/android/donebar/DoneButtonActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_done_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_done_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_done_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_done_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_sample_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/layout/activity_sample_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DoneBar/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DoneBar/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DownloadableFonts/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DragSource/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/DropTarget/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DragAndDropAcrossApps/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DrawableTinting/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/DrawableTinting/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/DrawableTinting/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationDrag/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElevationDrag/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElevationDrag/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ElizaChat/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ElizaChat/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/EmojiCompat/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/EmojiCompat/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/EmojiCompat/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/EmojiCompat/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FindMyPhone/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FindMyPhone/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FingerprintDialog/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FingerprintDialog/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FingerprintDialog/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FingerprintDialog/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Flashlight/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Flashlight/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/FloatingActionButtonBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Geofencing/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Geofencing/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/GridViewPager/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/GridViewPager/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/GridViewPager/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/GridViewPager/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/HdrViewfinder/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/HdrViewfinder/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/HdrViewfinder/screenshots/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/HdrViewfinder/screenshots/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/HorizontalPaging/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/HorizontalPaging/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ImmersiveMode/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ImmersiveMode/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ImmersiveMode/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Interpolator/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Interpolator/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Interpolator/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/JobScheduler/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/JobScheduler/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/JobScheduler/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/JobScheduler/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/JumpingJack/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/JumpingJack/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/LNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/LNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-hdpi/ic_stat_image_audiotrack.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-hdpi/ic_stat_image_audiotrack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-mdpi/ic_stat_image_audiotrack.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-mdpi/ic_stat_image_audiotrack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-xhdpi/ic_stat_image_audiotrack.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-xhdpi/ic_stat_image_audiotrack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_stat_image_audiotrack.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_stat_image_audiotrack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaBrowserService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaBrowserService/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaEffects/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaEffects/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaEffects/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRecorder/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRecorder/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRouter/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MediaRouter/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MediaRouter/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MessagingService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MessagingService/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-hdpi/ic_clear_all.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-hdpi/ic_clear_all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-mdpi/ic_clear_all.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-mdpi/ic_clear_all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xhdpi/ic_clear_all.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xhdpi/ic_clear_all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xxhdpi/ic_clear_all.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xxhdpi/ic_clear_all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xxxhdpi/ic_clear_all.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/drawable-xxxhdpi/ic_clear_all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiScope/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiScope/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MidiSynth/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MidiSynth/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/LogWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/Log.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/Log.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogWrapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogWrapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/MessageOnlyLogFilter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/MessageOnlyLogFilter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/kotlinApp/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/MultiWindowPlayground/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-hdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-hdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-mdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-mdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-xhdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-xhdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-hdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-hdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-mdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-mdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-xhdpi/action_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-xhdpi/action_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NavigationDrawer/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/java/com/example/android/networkconnect/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/java/com/example/android/networkconnect/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/layout/sample_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/layout/sample_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NetworkConnect/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NetworkConnect/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NfcProvisioning/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NfcProvisioning/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NfcProvisioning/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NotificationChannels/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NotificationChannels/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NotificationChannels/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NotificationChannels/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NotificationChannels/kotlinApp/screenshots/1-main.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NotificationChannels/kotlinApp/screenshots/1-main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/NotificationChannels/screenshots/1-main.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/NotificationChannels/screenshots/1-main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Notifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Notifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/kotlinApp/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/kotlinApp/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PdfRendererBasic/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PermissionRequest/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PermissionRequest/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PermissionRequest/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PictureInPicture/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PictureInPicture/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/PictureInPicture/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/PictureInPicture/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Quiz/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Quiz/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecipeAssistant/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecipeAssistant/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/app/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RecyclerView/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RenderScriptIntrinsic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RenderScriptIntrinsic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RepeatingAlarm/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RevealEffectBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RuntimePermissions/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RuntimePermissions/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RuntimePermissions/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RuntimePermissions/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RuntimePermissionsBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RuntimePermissionsBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RuntimePermissionsBasic/kotlinApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RuntimePermissionsBasic/kotlinApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/RuntimePermissionsWear/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/RuntimePermissionsWear/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScopedDirectoryAccess/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScopedDirectoryAccess/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScopedDirectoryAccess/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScopedDirectoryAccess/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScreenCapture/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ScreenCapture/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ScreenCapture/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/ShareActionProvider/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/ShareActionProvider/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SkeletonWearableApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SlidingTabsColors/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SpeedTracker/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SpeedTracker/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageClient/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageClient/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageClient/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_computer_android_studio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_computer_android_studio.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_computer_back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_computer_back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_dinner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_dinner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_pumpkins_fall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_pumpkins_fall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_rose.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/Application/src/main/res/raw/android_rose.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/StorageProvider/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/StorageProvider/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshLayoutBasic/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshListFragment/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/Application/src/main/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SwipeRefreshMultipleViews/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SynchronizedNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SynchronizedNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/SynchronizedNotifications/screenshots/web-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/SynchronizedNotifications/screenshots/web-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/TextLinkify/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/TextLinkify/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/TextSwitcher/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/TextSwitcher/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/Timer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/Timer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/add_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/add_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/added_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/added_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/added_long_text_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-360dpi/added_long_text_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-hdpi/add_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-hdpi/add_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-hdpi/added_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-hdpi/added_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-xhdpi/added_long_text_complication.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/Wearable/src/main/res/drawable-xhdpi/added_long_text_complication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchFace/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchFace/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchViewStub/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WatchViewStub/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WatchViewStub/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearAccessibilityApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearAccessibilityApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearComplicationProvidersTestSuite/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearComplicationProvidersTestSuite/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearDrawers/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearDrawers/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearHighBandwidthNetworking/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearHighBandwidthNetworking/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearMessagingApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearMessagingApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearNotifications/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearNotifications/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearSpeakerSample/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearSpeakerSample/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/WearVerifyRemoteApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/WearVerifyRemoteApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-hdpi/ic_action_map.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-hdpi/ic_action_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-hdpi/ic_stat_maps_pin_drop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-hdpi/ic_stat_maps_pin_drop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-mdpi/ic_action_map.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-mdpi/ic_action_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-mdpi/ic_stat_maps_pin_drop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-mdpi/ic_stat_maps_pin_drop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_action_map.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_action_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_stat_maps_pin_drop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_stat_maps_pin_drop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xxhdpi/ic_action_map.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xxhdpi/ic_action_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xxhdpi/ic_stat_maps_pin_drop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/drawable-xxhdpi/ic_stat_maps_pin_drop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Wearable/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Wearable/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/screenshots/icon-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../gradle/XYZTouristAttractions/screenshots/icon-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sample-create" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sample-create" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/ActivityCards/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/ActivityCards/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/ActivityCards/_MODULE_/src/template/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/ActivityCards/_MODULE_/src/template/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/layout-w720dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/layout-w720dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/values/fragmentview_strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/FragmentView/_MODULE_/src/template/res/values/fragmentview_strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/java/_PACKAGE_/MainActivity.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout-sw600dp-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout-sw600dp-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/values/strings.xml.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/SingleView/_MODULE_/src/template/res/values/strings.xml.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/base/_MODULE_/src/template/res/values-v21/base-colors.xml.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/base/_MODULE_/src/template/res/values-v21/base-colors.xml.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/base/_MODULE_/src/template/res/values/base-strings.xml.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/base/_MODULE_/src/template/res/values/base-strings.xml.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/create/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/create/gradlew" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichTvInputSetupActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1067#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/simple/SimpleTvInputSetupActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#5341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/simple/SimpleTvInputService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#7086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updatePostalCode</find>
+      <find>PostalCodeUtils</find>
+      <find>setLastPostalCode</find>
+      <find>getBuiltInTunerType</find>
+      <find>mPendingShowInitialFragment</find>
+      <find>onResume</find>
+      <find>onCreateInitialFragment</find>
+      <find>useBuiltInTuner</find>
+      <find>onCreate</find>
+      <find>TAG</find>
+      <find>sBuiltInTunerType</find>
+      <find>DEBUG</find>
+      <find>getDvbDeviceList</find>
+      <find>DeliverySystemType</find>
+      <find>getNumberOfDevices</find>
+      <find>librtk_halPlayer</find>
+      <find>openDvbDevice</find>
+      <find>openDvbFrontEndFd</find>
+      <find>getDeviceId</find>
+      <find>DVB_DEVICE_FRONTEND</find>
+      <find>PCR</find>
+      <find>open</find>
+      <find>getSystemService</find>
+      <find>TV_INPUT_SERVICE</find>
+      <find>sGetDvbDeviceListMethod</find>
+      <find>getTvInputList</find>
+      <find>mDeviceId</find>
+      <find>showInitialFragment</find>
+      <find>TvInputManager</find>
+      <find>onStart</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/TunerPreferences.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/SampleDvbTuner/src/com/android/tv/tuner/sample/dvb/tvinput/SampleDvbTunerTvInputService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/SampleDvbTuner/src/com/android/tv/tuner/sample/dvb/app/SampleDvbTuner.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/data/PsiData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/data/PsipData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/ts/SectionParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/data/TunerChannel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/FileSampleExtractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/google/android/exoplayer/MediaFormatUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/google/android/exoplayer/MediaSoftwareCodecUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/TunerSessionWorker.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/player/TvInputPlayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/MpegTsMediaCodecAudioTrackRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/EventDetector.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SamplePool.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SampleChunk.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/AudioTrackWrapper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/AudioTrackMonitor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/cc/CaptionTrackRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/ChannelScanFileParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/cc/CaptionWindowLayout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/DvrStorageManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/BaseTunerTvInputService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/FileSourceEventDetector.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/util/TunerInputInfoUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/ScanFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsSampleExtractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TsDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TsDataSourceManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SampleQueue.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SimpleSampleBuffer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsPlayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsSampleSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsRendererBuilder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/Cea708TextTrackRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/FileTsStreamer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TunerTsStreamer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/BufferManager.java" />
+        <option value="$PROJECT_DIR$/partner_support/src/com/google/android/tv/partner/support/BaseCustomization.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/SampleDvbTuner/src/com/android/tv/tuner/sample/dvb/setup/SampleDvbTunerSetupActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/ExoPlayerSampleExtractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/TrickplayStorageManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/AudioDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/MpegTsDefaultAudioTrackRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/MediaCodecAudioDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsVideoTrackRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSettingsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/DvbDeviceAccessor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/BaseTunerSetupActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/TunerHal.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/DvbTunerHal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="sampletvinput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="sampletvinput" type="462c0819:PsiDirectoryNode" />
+              <item name="rich" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="sampletvinput" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="tv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="tv" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="tv" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample-inputs" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="tv" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="setup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-inputs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="D:/Android/Git/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28570e8d-3e54-443d-9209-aa20d4a28c86" name="Default Changelist" comment="" />
+      <created>1555936071583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555936071583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25426438" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32995737" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Assistant" order="4" visible="true" weight="0.23560767" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25426438" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32995737" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Assistant" order="4" visible="true" weight="0.23560767" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/TunerRecordingSessionWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="145" column="38" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TsDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TsDataSourceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#5304#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TunerTsStreamerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11646#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SampleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#2470#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/java/com/android/tv/common/config/api/RemoteConfigValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsSampleExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/TunerSessionWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/SimpleSampleBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/ts/SectionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="61" selection-start-line="61" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/SampleExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <folding>
+            <element signature="e#0#5447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsSampleSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="96" column="32" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4671#4672#0" expanded="true" />
+            <element signature="e#4698#4699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsRendererBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/Cea708TextTrackRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="235" column="20" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8000#8001#0" expanded="true" />
+            <element signature="e#8069#8070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/TunerTsStreamer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/source/FileTsStreamer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/SampleDvbTuner/src/com/android/tv/tuner/sample/dvb/tvinput/SampleDvbTunerTvInputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protobuf/src/main/proto/channel.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/BufferManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="293" column="57" selection-start-line="293" selection-start-column="57" selection-end-line="293" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#25845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partner_support/src/com/google/android/tv/partner/support/PartnerCustomizations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="39" column="92" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#1607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partner_support/src/com/google/android/tv/partner/support/BaseCustomization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#3336#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/SampleDvbTuner/src/com/android/tv/tuner/sample/dvb/setup/SampleDvbTunerSetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5597">
+          <caret line="311" column="35" selection-start-line="311" selection-start-column="33" selection-end-line="311" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/ExoPlayerSampleExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="130" column="96" selection-start-line="130" selection-start-column="96" selection-end-line="130" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/buffer/TrickplayStorageManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#5330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/AudioDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#2231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/MpegTsDefaultAudioTrackRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7444">
+          <caret line="468" column="116" selection-start-line="468" selection-start-column="116" selection-end-line="468" selection-end-column="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8387#8388#0" expanded="true" />
+            <element signature="e#8789#8790#0" expanded="true" />
+            <element signature="e#9888#9889#0" expanded="true" />
+            <element signature="e#23776#23777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/audio/MediaCodecAudioDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5134#5135#0" expanded="true" />
+            <element signature="e#5168#5169#0" expanded="true" />
+            <element signature="e#7101#7102#0" expanded="true" />
+            <element signature="e#7148#7149#0" expanded="true" />
+            <element signature="e#8073#8074#0" expanded="true" />
+            <element signature="e#8132#8133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichSettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="86" column="57" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#5704#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/exoplayer/MpegTsVideoTrackRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="77" column="93" selection-start-line="77" selection-start-column="93" selection-end-line="77" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protobuf/src/main/proto/track.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichTvInputSettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/BaseTunerTvInputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/livetuner/LiveTvTunerTvInputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/PostalCodeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2280">
+          <folding>
+            <element signature="e#0#7763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/java/com/android/tv/common/customization/CustomizationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="102" column="49" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#11086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/java/com/android/tv/common/util/PostalCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#5467#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/java/com/android/tv/common/CommonPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="219" column="53" selection-start-line="219" selection-start-column="36" selection-end-line="219" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#13577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/WelcomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#5257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/DvbTunerHal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1163">
+          <caret line="89" column="70" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#6070#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/TunerHal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5544">
+          <caret line="38" column="85" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/DvbDeviceAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="190" column="28" selection-start-line="190" selection-start-column="19" selection-end-line="190" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#8372#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/java/com/android/tv/common/ui/setup/SetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#7095#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/TunerFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <folding>
+            <element signature="e#0#3859#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/TunerPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#4124#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/LiveTvTunerSetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#3112#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/tvinput/ChannelDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#34801#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/tuner/src/com/android/tv/tuner/setup/BaseTunerSetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/rich/RichTvInputSetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/simple/SimpleTvInputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#7086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sampletvinput/simple/SimpleTvInputSetupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#5341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
