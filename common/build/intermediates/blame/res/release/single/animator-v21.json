@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_onboarding_description_enter.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_onboarding_logo_exit.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_onboarding_logo_enter.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_onboarding_title_enter.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/release/animator-v21/lb_onboarding_page_indicator_enter.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/animator-v21/lb_onboarding_page_indicator_enter.xml"
+    }
+]

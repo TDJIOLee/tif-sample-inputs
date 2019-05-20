@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "659"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_default.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_spinner.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/color-v23/abc_tint_edittext.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/color-v23/abc_tint_edittext.xml"
+    }
+]

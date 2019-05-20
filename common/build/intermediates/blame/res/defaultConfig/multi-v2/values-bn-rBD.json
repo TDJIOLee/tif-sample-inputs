@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/values-bn-rBD/values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/res/values-bn-rBD/strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "810,892,979,1166,1319,1545,1741,1989",
+                        "endColumns": "81,86,186,152,225,195,247,209",
+                        "endOffsets": "887,974,1161,1314,1540,1736,1984,2194"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,187,274,453,602,816,1004,1234",
+                        "endColumns": "81,86,178,148,213,187,229,195",
+                        "endOffsets": "182,269,448,597,811,999,1229,1425"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/incremental/mergeDefaultConfigResources/merged.dir/values-bn-rBD/values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/res/values-bn-rBD/strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "810,892,979,1166,1319,1545,1741,1989",
+                        "endColumns": "81,86,186,152,225,195,247,209",
+                        "endOffsets": "887,974,1161,1314,1540,1736,1984,2194"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,187,274,453,602,816,1004,1234",
+                        "endColumns": "81,86,178,148,213,187,229,195",
+                        "endOffsets": "182,269,448,597,811,999,1229,1425"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+//apply plugin: 'java-library'
+apply plugin: 'android-library'
+
+//sourceSets {
+//    main.java.srcDirs += 'src/main/java/'
+//}
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    buildTypes {
+        defaultConfig {
+            minSdkVersion 18
+            targetSdkVersion 27
+            versionCode 1
+            versionName "1.0"
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:support-annotations:27.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.android.support:leanback-v17:27.1.1'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.squareup.picasso:picasso:2.3.2'
+}

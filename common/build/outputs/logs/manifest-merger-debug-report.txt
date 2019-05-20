@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:18:11-42
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:1-22:12
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:19:11-34
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+uses-sdk
+ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:5-73
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:5-73
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:5-73
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:5-73
+INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:5-73
+	android:targetSdkVersion
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:15-44
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:20:45-71
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+		INJECTED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml
+application
+ADDED from /home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/AndroidManifest.xml:21:5-20

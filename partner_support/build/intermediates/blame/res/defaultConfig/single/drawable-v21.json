@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/lb_card_foreground.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/lb_selectable_item_rounded_rect.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/notification_action_background.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0c5145826f485abd1aaf7296c72a20/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/lb_action_bg.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/drawable-v21/lb_control_button_secondary.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/transition-v19/lb_browse_headers_out.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/transition-v19/lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/transition-v19/lb_browse_headers_in.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/5833f2f7d94ea8d0363dafb12734f686/res/transition-v19/lb_browse_headers_in.xml"
+    }
+]

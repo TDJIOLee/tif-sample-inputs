@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

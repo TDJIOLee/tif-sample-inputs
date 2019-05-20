@@ -1,0 +1,4 @@
+#Thu May 16 21:24:59 CST 2019
+base.0=/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

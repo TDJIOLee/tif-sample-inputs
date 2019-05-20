@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/partner_support/build/intermediates/res/merged/defaultConfig/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/029f64358c4fec2969172e4753d2d356/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

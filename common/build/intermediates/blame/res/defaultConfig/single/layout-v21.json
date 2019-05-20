@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0c5145826f485abd1aaf7296c72a20/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-v21/notification_action.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0c5145826f485abd1aaf7296c72a20/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0c5145826f485abd1aaf7296c72a20/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/charles.lee/ATV_GMS/build_scripts/android/developers/build/prebuilts/androidtv/sample-inputs/common/build/intermediates/res/merged/defaultConfig/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/charles.lee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b0c5145826f485abd1aaf7296c72a20/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
